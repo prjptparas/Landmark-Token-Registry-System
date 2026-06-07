@@ -1,0 +1,160 @@
+body{
+    
+    
+   
+    margin: 0;
+    background-color: #fff;
+    background-size: cover;
+    backface-visibility: 30%;
+  }
+  .title {
+      color: #5C6AC4;
+  }
+
+
+    
+
+  
+
+.btns{
+  display: flex;
+  position: absolute;
+  top: 60%;
+  left: 60.5%;
+  
+  
+}
+
+.childbtns{
+  border-radius: 1rem;
+  margin: 10px;
+  height: 2rem;
+  width: 5rem;
+  border: none;
+}
+
+.childbtns:hover {
+background-color: #d1d1d1;
+transition: background-color 0.5s ease;
+}
+  
+  
+
+  nav {
+    
+    
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1rem 2rem;
+    
+    
+    
+    
+   
+      
+      
+    background: transparent;
+  }
+
+  nav h1{
+    position: absolute;
+    left: 10%;
+    
+    top: -10 px;
+    font-family: "Poppins";
+    font-size: 3rem;
+  }
+
+  nav img {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 3%;
+  }
+  
+  nav ul {
+    font-family: 'Helvetica Neue', sans-serif;
+    
+    position: absolute;
+    top: 4%;
+    right: 7%;
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  nav ul li a {
+    color: #000000;
+    align-items: end;
+    text-decoration: none;
+  }
+  
+  
+  @media (max-width: 768px) {
+    nav ul {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+  }
+
+
+
+  .illustration{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+  }
+
+
+
+  .textboxs{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    position: absolute;
+    left: 60%;
+    top: 45%;
+    height: 20%;
+  }
+
+  .inputf{
+    background-color: rgb(238, 238, 238);
+    border: none;
+    text-align: center;
+    margin: 4px;
+    border-radius: 1rem;
+    height: 2rem;
+    width: 13rem;
+    
+  }
+
+  .wlcmtxt{
+    font-family: sans-serif;
+    position: absolute;
+    left: 63.5%;
+    top: 20%;
+  }
+
+  .instructions{
+    width: 30%;
+    text-align: center;
+    justify-content: center;
+    background-color: #d1d1d1;
+    border-radius: 1rem;
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    font-family: sans-serif;
+    padding: 3%;
+
+  }
+
+  .bc{
+    position: absolute;
+    left: 2%;
+    top: 4%;
+    font-size: 5rem;
+    font-family: "Poppins";
+  }
