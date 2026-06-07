@@ -1,2 +1,4 @@
 # Landmark-Token-Registry-System
 A blockchain-based land registry system using Ethereum is a digital platform that leverages the Ethereum blockchain to establish a transparent, secure &amp; immutable record of land ownership &amp; property transactions.
+
+Property owners create digital identities & smart contracts are employed to facilitate transactions, ensuring ownership changes are contingent on agreed-upon conditions. Ethereum's decentralized governance & consensus mechanism provide transparency, while encryption safeguards sensitive data. However, challenges include legal compliance, data accuracy, user-friendliness & scalability. This innovative system offers the potential to revolutionize land registries by promoting trust, reducing fraud & increasing accessibility to property records.
