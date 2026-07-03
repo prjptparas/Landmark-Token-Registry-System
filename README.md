@@ -1,11 +1,10 @@
 # Landmark Token Registry System
+<h3>Blockchain & Cryptograph Technology</h3> <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success" alt="Status" />
   <img src="https://img.shields.io/badge/Architecture-Modular%20Monolith-blue" alt="Architecture" />
 </div>
-
-<h3>Blockchain & Cryptograph Technology</h3>
 
 ## 🌟 Overview
 
